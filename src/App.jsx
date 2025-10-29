@@ -68,7 +68,7 @@ export default function App() {
             <h1>Bilgisayar Parçaları Portalı</h1>
           </div>
           <div className="contact-info">
-            <span>📞 0538 982 22 75</span>
+            <span>📞 0555 555 55 55</span>
             <span>✉️ merttgundogan@hotmail.com</span>
           </div>
           <nav>
