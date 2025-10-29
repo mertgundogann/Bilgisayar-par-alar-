@@ -212,7 +212,7 @@ export default function App() {
           </div>
           <div>
             <h4>İletişim</h4>
-            <p>📞 0538 982 22 75</p>
+            <p>📞 0555 555 55 55</p>
             <p>✉️ merttgundogan@hotmail.com</p>
           </div>
           <div className="social-media">
